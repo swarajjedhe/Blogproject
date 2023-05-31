@@ -1,0 +1,23 @@
+/* .text img{
+    height: 300px;
+} */
+
+.img {
+    height: 250px;
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+
+}
+
+/* .text{
+    background-image: url("../blogtitle/asset\ 4.jpeg");
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    opacity: 0.9;
+} */
